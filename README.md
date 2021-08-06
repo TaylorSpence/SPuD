@@ -1,6 +1,7 @@
 # SPuD
 Stalk Puncture Device
-The Stalk Puncture Device and the puncture analysis method are patented. US Patent -------------
+
+This Stalk Puncture Device and the puncture analysis method are patented. US Patent -------------
 
 **3D Print STLs.zip:** This .zip file contains .STL files for every 3D printed part needed for the construction of the SPuD. 
 
