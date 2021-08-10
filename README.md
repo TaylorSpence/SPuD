@@ -19,9 +19,11 @@ This Stalk Puncture Device and the puncture analysis method are patented: Method
 
 **Raw Instron Data.zip:** This .zip file contains a .csv file for every puncture test run on the Instron that was used to compare against the SPuD tests. These .csv files contain the raw data from the test and include columns for time, position, and force.
 
-**Raw SPuD Data.zip:** This .zip file contains a .csv file for every validation puncture test performed on the SPuD. These .csv files contain the raw data from the test and include columns for position, which is in milimeters, and force, in newtons.
+**Raw SPuD Data.zip:** This .zip file contains a .csv file for every validation puncture test performed on the SPuD. These .csv files contain the raw data from the test and include columns for position, which is in millimeters, and force, in newtons.
 
 **SPuD BOM.xlsx:** This excel file contains every component in the SPuD along with columns of useful information for each, such as the manufacturer, part number, a web link to the item, weights for 3D printed items, materials, prices, quantities, etc. 
+
+**SPuD CAD 1-4:** Github's file size limitation required CAD files for the SPuD to be split between four .zip files. In order for the assemblies and main assembly (SPuD.sldasm) to open without errors all zip files must be opened and the contents should be combined into a single folder. Within these .zip files is every SolidWorks part and assembly to create the full SPuD model. The SolidWorks drawings for milled components are included as well.   
 
 **SPuD CAD Renders.zip:** This .zip file contains several CAD renders of the SPuD.
 
