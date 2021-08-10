@@ -3,7 +3,7 @@ Stalk Puncture Device
 
 **This Stalk Puncture Device and the puncture analysis method are patented: Method and Apparatus for Analyzing Stalk Strength. US patent 17/109,989. Issued June 3, 2021. Inventors are: Robertson D.J., Cook D., Seegmiller W., Spence T., Seegmiller K., Stucker A.**
 
-**3D Print STLs.zip:** This .zip file contains .STL files for every 3D printed part needed for the construction of the SPuD. 
+**3D Print STLs.zip:** This .zip file contains .STL files for every 3D printed part needed for the construction of the SPuD. Files are named CAD01, CAD02, etc. Descriptions linked to these file names can be found in the SPuD BOM.xlsx file or in the bill of materials section of the thesis.
 
 **Final SPuD Arduino Code.zip:** This .zip file contains folders with the full arduino code for the Arduino Mega (Main) and Arduino Uno (Slave). Some libraries may need to be downloaded to run the code. Needed Libraries and the version of them used (some may not be the lastest versions) can be found as comments in the first few rows of the Main Arduino code. 
 
@@ -11,9 +11,9 @@ Stalk Puncture Device
 
 **Inston and SPuD Naming Alignment.xlsx:** Due to the 8 character limitation of the SPuD's file naming capabilites the full barcode had to be condensed when naming the raw data files from the SPuD. While it is not difficult to figure out how these shortened names align with the full barcode, this excel file verifies which barcode relate to which SPuD file.
 
-**Laser Cut DXFs.zip:** This .zip file contains the two .dxf files needed to laser cut the top and bottom covers of the SPuD. 
+**Laser Cut DXFs.zip:** This .zip file contains the two .dxf files needed to laser cut the top (LASER01) and bottom (LASER02) covers of the SPuD.
 
-**Mill Drawing PDFs.zip:** This .zip file contains engineering drawing PDFs for each machined component needed to build the SPuD. All machined components were machined on a manual mill or turned on a manual lathe.  
+**Mill Drawing PDFs.zip:** This .zip file contains engineering drawing PDFs for each machined component needed to build the SPuD. All machined components were machined on a manual mill or turned on a manual lathe. Files are named MILL01, MILL02, etc. Descriptions linked to these file names can be found in the SPuD BOM.xlsx file or in the bill of materials section of the thesis.  
 
 **Minor Diameter Analysis.zip:** This .zip file contains everything needed to run the full minor diameter analysis...
 
