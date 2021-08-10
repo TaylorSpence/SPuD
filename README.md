@@ -1,7 +1,7 @@
 # SPuD
 Stalk Puncture Device
 
-This Stalk Puncture Device and the puncture analysis method are patented. US Patent -------------
+This Stalk Puncture Device and the puncture analysis method are patented: Method and Apparatus for Analyzing Stalk Strength. US patent 17/109,989. Issued June 3, 2021. Inventors are: Robertson D.J., Cook D., Seegmiller W.*, Spence T.*, Seegmiller K.*, Stucker A.* 
 
 **3D Print STLs.zip:** This .zip file contains .STL files for every 3D printed part needed for the construction of the SPuD. 
 
