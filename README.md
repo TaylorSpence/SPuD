@@ -15,7 +15,7 @@ Stalk Puncture Device
 
 **Mill Drawing PDFs.zip:** This .zip file contains engineering drawing PDFs for each machined component needed to build the SPuD. All machined components were machined on a manual mill or turned on a manual lathe. Files are named MILL01, MILL02, etc. Descriptions linked to these file names can be found in the SPuD BOM.xlsx file or in the bill of materials section of the thesis.  
 
-**Minor Diameter Analysis.zip:** This .zip file contains everything needed to run the full minor diameter analysis...
+**Minor Diameter Analysis.zip:** This .zip file contains the outputs of the minor diameter analysis 
 
 **Raw Instron Data.zip:** This .zip file contains a .csv file for every puncture test run on the Instron that was used to compare against the SPuD tests. These .csv files contain the raw data from the test and include columns for time, position, and force.
 
