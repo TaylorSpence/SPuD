@@ -23,7 +23,7 @@ Stalk Puncture Device
 
 **SPuD BOM.xlsx:** This excel file contains every component in the SPuD along with columns of useful information for each, such as the manufacturer, part number, a web link to the item, weights for 3D printed items, materials, prices, quantities, etc. 
 
-**SPuD CAD 1-4:** Github's file size limitation required CAD files for the SPuD to be split between four .zip files. In order for the assemblies and main assembly (SPuD.sldasm) to open without errors all zip files must be opened and the contents should be combined into a single folder. Within these .zip files is every SolidWorks part and assembly to create the full SPuD model. The SolidWorks drawings for milled components are included as well.   
+**SPuD CAD 1-4:** Github's file size limitation required CAD files for the SPuD to be split between four .zip files. In order for the assemblies and main assembly (SPuD.sldasm) to open without errors all zip files must be opened and the contents should be combined into a single folder. Within these .zip files is every SolidWorks part and assembly to create the full SPuD model. The SolidWorks drawings for milled components are included as well. Some fasteners within the SPuD assembly may differ slightly (by length or head type) from those within the BOM. This is due to the limitations of our on hand selection when building the prototype. Fasteners within the model are generally considered preferable.      
 
 **SPuD CAD Renders.zip:** This .zip file contains several CAD renders of the SPuD.
 
