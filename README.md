@@ -5,7 +5,7 @@ Stalk Puncture Device
 
 **3D Print STLs.zip:** This .zip file contains .STL files for every 3D printed part needed for the construction of the SPuD. Files are named CAD01, CAD02, etc. Descriptions linked to these file names can be found in the SPuD BOM.xlsx file or in the bill of materials section of the thesis.
 
-**A Field Device to Rapidly Determine the Bending Strength of Maize Stalks.pdf:** A full pdf copy of my thesis which gives an overview of the backgroud for the device, step by step building anaylsis, and discussion of results.   
+**A Field Device to Rapidly Determine the Bending Strength of Maize Stalks.pdf:** A full pdf copy of my thesis which gives an overview of the backgroud for the device, step by step building instructions, and an analysis/discussion of results.   
 
 **Final SPuD Arduino Code.zip:** This .zip file contains folders with the full arduino code for the Arduino Mega (Main) and Arduino Uno (Slave). Some libraries may need to be downloaded to run the code. Needed Libraries and the version of them used (some may not be the lastest versions) can be found as comments in the first few rows of the Main Arduino code. 
 
